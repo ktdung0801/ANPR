@@ -1,4 +1,4 @@
-# ALPR
+# ANPR
 Nhận diện biển số xe Việt Nam
 
 ## Các thư viện chính
